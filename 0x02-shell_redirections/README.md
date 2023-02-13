@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e 'Hello,World\n'
+ls >0-hello_world
